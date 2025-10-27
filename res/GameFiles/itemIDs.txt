@@ -1,0 +1,83 @@
+	
+	itemName ClassName(ItemID,Max Stack Size)	
+	 stick Stick(1,64);
+	
+	 bass Bass(2,64);
+	 corn Corn(3,64);
+	 avacado Avacado(4,64);
+	 cotton Cotton(53,64);
+	 lettuce Lettuce(54,64);
+	 pineapple PineApple(55,64);
+	
+	
+	 backpack BackPack(5,1);
+	 glasses Glasses(6,1);
+	 tinted_glasses TintedGlasses(7,1);
+	 seed Seed(8,64);
+	
+	 trident Trident(9,1);
+	 terra_blade TerraBlade(10,1);
+	 mana_sheath ManaSheath(11,1);
+	 paladin_axe PaladinAxe(12,1);
+	
+	 salmon_bucket SalmonBucket(13,16);
+	 tropical_fish_bucket TropicalFishBucket(14,16);
+	 cod_bucket CodBucket(15,16);
+	
+	 coal Coal(16,64);
+	 blueprint BluePrint(16,64);
+	
+	 wirecutter WireCutters(17,1);
+	 skyhook SkyHook(18,1);
+	 hammer Hammer(19,1);
+	
+	
+	///////////////DUSTS
+	
+	i can't tell the difference between all the dusts either
+
+	 aluminum_dust AluminumDust(20,64);
+	 coke_dust CokeDust(21,64);
+	 constantan_dust ConstantanDust(22,64);
+	 copper_dust CopperDust(23,64);
+	 electrum_dust ElectrumDust(24,64);
+	 gold_dust GoldDust(25,64);
+	 graphite_dust GraphiteDust(26,64);
+	
+	 iron_dust IronDust(27,64);
+	 lead_dust LeadDust(28,64);
+	 quartz_dust QuartzDust(29,64);
+	 nickel_dust NickelDust(30,64);
+	 silver_dust SilverDust(31,64);
+	 steel_dust SteelDust(32,64);
+	 uranium_dust UraniumDust(33,64);
+	
+	///////////////////Bars
+	
+	 aluminum_bar AluminumBar(34,64);
+	 coke_bar CokeBar(35,64);
+	 constantan_bar ConstantanBar(36,64);
+	 copper_bar CopperBar(37,64);
+	 electrum_bar ElectrumBar(38,64);
+	 gold_bar GoldBar(39,64);
+	 graphite_bar GraphiteBar(40,64);
+	
+	 iron_bar IronBar(41,64);
+	 lead_bar LeadBar(42,64);
+	 quartz_bar QuartzBar(43,64);
+	 nickel_bar NickelBar(44,64);
+	 silver_bar SilverBar(45,64);
+	 steel_bar SteelBar(46,64);
+	 uranium_bar UraniumBar(47,64);
+	
+	 oshit Oshit(48,64);
+	
+	 night_vision_helmet NightVisionHelmet(49,1);
+	 nano_chestplate NanoBoots(50,1);
+	 nano_leggings NanoLeggings(51,1);
+	 nano_boots NanoBoots(52,1);
+	
+	//Crafting
+	 crate CrateItem(56,64);
+	 crafting_station CraftingStationItem(57,64);
+	 furnace FurnaceItem(58,64);

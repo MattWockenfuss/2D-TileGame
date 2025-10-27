@@ -1,6 +1,27 @@
 # Compiled class file
 *.class
 
+# Build output
+/out/
+/build/
+/bin/
+/target/
+/classes/
+
+# IDE
+/.idea/
+/.vscode/
+/.settings/
+.idea
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
 # Log file
 *.log
 

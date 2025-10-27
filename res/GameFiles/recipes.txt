@@ -1,0 +1,80 @@
+//To add a crafting recipe, copy paste one of the previous recipes and put your own data as follows
+//you can put letters A-I which each one has an itemID and and Item Count
+//
+//      Letter:ItemID,itemAmount
+//Ex.   A:1,1		which is 1 amount of id 1, which is stick
+//
+//      the product tag has a similar input, however, if your stackAmount is greater than the itemID's max stack size that you put in, then the amount is set to the max stack size
+//														reading that sounds way more  confusing that it actually is 
+//														Ex.  product:4,999	---->   product:4,64
+//														
+//														if you put in an id that doesn't exist for the product, it becomes a bass for obvious reasons
+//														if you put in an ID that doesn't exist for one of the ingredients(the A-I stuff) than the ingredient is tossed from the recipe
+//															(As in the recipe no longer requires that item)
+//														if you put in a stack size bigger than the max stack size for one of the ingredients, fuck you you cant make it then dumb bitch
+//
+//
+//
+//			BTW: white space and only lines starting with "//" are ignored, you can't add comments to the end of lines
+//
+//
+//
+//			Feel completely able bodied to add as many recipes as you want, if they are logical and dont completely brake the game i will probably add them
+//
+//			
+
+
+//Recipes you probably shouldn't get rid of
+CraftingRecipe{
+	A:1,1
+	B:2,1
+	C:3,1
+	D:4,1
+	product:25,77
+		1:"AB "
+		2:"CD "
+		3:"   "
+}
+CraftingRecipe{
+	A:3,1
+	product:4,1
+		1:"A  "
+		2:"   "
+		3:"   "
+}
+CraftingRecipe{
+	A:4,1
+	product:3,1
+		1:"A  "
+		2:"   "
+		3:"   "
+}
+CraftingRecipe{
+	A:1,1
+	product:57,1
+		1:"AA "
+		2:"AA "
+		3:"   "
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
